@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135961657351",
+    "project_id": "app2multi",
+    "storage_bucket": "app2multi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135961657351:android:14bf0885c6217571f8aaa2",
+        "android_client_info": {
+          "package_name": "com.munjalparmar.app2multi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dpe5eHNLGoyy5oyI_3AsZ1qZicfhBoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
