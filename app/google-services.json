@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "135961657351",
+    "firebase_url": "https://app2multi-default-rtdb.firebaseio.com",
     "project_id": "app2multi",
     "storage_bucket": "app2multi.appspot.com"
   },
